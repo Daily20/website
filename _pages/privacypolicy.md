@@ -8,4 +8,4 @@ include_in_header: false
 January 3, 2023
 
 # Privacy Policy
-Daily 20 does not collect and personal information
+Daily 20 does not collect any personal information
